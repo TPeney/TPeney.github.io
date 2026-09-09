@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Tom Peney",
+    "section": "",
+    "text": "Peney, T., & Skarratt, P. A. (2024). Increasing the immersivity of 360° videos facilitates learning and memory: Implications for theory and practice. Educational Technology Research and Development, 72, 3103–3115. https://doi.org/10.1007/s11423-024-10402-9"
+  },
+  {
+    "objectID": "projects/turbo-typing.html",
+    "href": "projects/turbo-typing.html",
+    "title": "Turbo Typing",
+    "section": "",
+    "text": "← Back to home\nResearch Assistant, University of Leeds (2022–2024) · Project page at CAER"
+  },
+  {
+    "objectID": "projects/turbo-typing.html#the-project",
+    "href": "projects/turbo-typing.html#the-project",
+    "title": "Turbo Typing",
+    "section": "The project",
+    "text": "The project\nTurbo Typing was a research project run through the Centre for Applied Education Research (CAER) at the University of Leeds. It delivered a bespoke online touch-typing course to primary school children (aged 9-10) over six months, while recording fine-grained measures of typing ability and its component sub-skills, such as manual dexterity and rollover rate. The aim was to map how these sub-skills developed, and the extent to which they contributed to overall performance at each stage of learning. Alongside its theoretical aims, the project assessed the feasibility of studying sensorimotor learning at scale in naturalistic educational settings. Funding was provided by the Leverhulme Trust."
+  },
+  {
+    "objectID": "projects/turbo-typing.html#my-role",
+    "href": "projects/turbo-typing.html#my-role",
+    "title": "Turbo Typing",
+    "section": "My role",
+    "text": "My role\nI worked as a Unity developer on the Turbo Typing course, responsible for:\n\nTask Logic — coded the task behaviour, ensuring each design decision reflected the underlying psychological theory\nUI Design — building the visual elements of the task to keep children engaged and informed throughout the course\nData Capture — ensuring keystroke-level events were logged reliably and with accuracte timings for later analysis"
+  },
+  {
+    "objectID": "projects/turbo-typing.html#tools",
+    "href": "projects/turbo-typing.html#tools",
+    "title": "Turbo Typing",
+    "section": "Tools",
+    "text": "Tools\nUnity · C# · Git"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Tom Peney",
+    "section": "",
+    "text": "Cognitive scientist who designs experiments and analyses behavioural data in R and Python.\nI am currently contributing to the ESRC funded grant — Beyond Belief: knowledge and ignorance processing in adults."
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20626920706572736f6e2d636972636c65203e7d7d-about",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20626920706572736f6e2d636972636c65203e7d7d-about",
+    "title": "Dr Tom Peney",
+    "section": "",
+    "text": "Cognitive scientist who designs experiments and analyses behavioural data in R and Python.\nI am currently contributing to the ESRC funded grant — Beyond Belief: knowledge and ignorance processing in adults."
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206c6967687462756c622d66696c6c203e7d7d-research-interests",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206c6967687462756c622d66696c6c203e7d7d-research-interests",
+    "title": "Dr Tom Peney",
+    "section": " Research interests",
+    "text": "Research interests\n\nAutomaticity of mental state attribution (Theory of Mind)\nImmersion and presence in extended reality\nLLM-assisted methods for behavioural research\nCognitive ethology and ecological validity in experimental design\nOpen and reproducible research practices"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206b616e62616e2d66696c6c203e7d7d-projects",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206b616e62616e2d66696c6c203e7d7d-projects",
+    "title": "Dr Tom Peney",
+    "section": " Projects",
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nVisual Cognition in Immersive Virtual Reality\n\n\nExamined how immersion shapes visual attention, and what that means for using VR as an experimental tool.\n\n\n\n\n\n\n\n\n\n\n\n\nTurbo Typing\n\n\nUnity development for a multi-week online typing course that measures how children acquire typing and its sub-skills.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20626920626f6f6b6d61726b732d66696c6c203e7d7d-publications",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20626920626f6f6b6d61726b732d66696c6c203e7d7d-publications",
+    "title": "Dr Tom Peney",
+    "section": " Publications",
+    "text": "Publications\nPeney, T., & Skarratt, P. A. (2024). Increasing the immersivity of 360° videos facilitates learning and memory: Implications for theory and practice. Educational Technology Research and Development, 72, 3103–3115. https://doi.org/10.1007/s11423-024-10402-9"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206d6f72746172626f6172642d66696c6c203e7d7d-education",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206d6f72746172626f6172642d66696c6c203e7d7d-education",
+    "title": "Dr Tom Peney",
+    "section": " Education",
+    "text": "Education\nPhD, University of Hull, 2024\nThesis: Visual Cognition in Immersive Virtual Reality: Theoretical and Practical Insights\nMSc, University of Hull, 2021\nSocial Research (Doctoral Training Pathway)\nMSc, Loughborough University, 2020\nWork Psychology\nBSc, University of Hull, 2019\nPsychology"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206272696566636173652d66696c6c203e7d7d-experience",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269206272696566636173652d66696c6c203e7d7d-experience",
+    "title": "Dr Tom Peney",
+    "section": " Experience",
+    "text": "Experience\nPostdoctoral Research Associate, University of Hull\n2025 to present\nResearch Assistant, University of Leeds\n2022 to 2024"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269207465726d696e616c2d66696c6c203e7d7d-skills",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206269207465726d696e616c2d66696c6c203e7d7d-skills",
+    "title": "Dr Tom Peney",
+    "section": " Skills",
+    "text": "Skills\nR · Python · Experimental design · Open Science · VR"
+  },
+  {
+    "objectID": "projects/vr-thesis.html",
+    "href": "projects/vr-thesis.html",
+    "title": "Visual Cognition in Immersive Virtual Reality",
+    "section": "",
+    "text": "← Back to home\nPhD Project, University of Hull (2025) · Read the thesis"
+  },
+  {
+    "objectID": "projects/vr-thesis.html#summary",
+    "href": "projects/vr-thesis.html#summary",
+    "title": "Visual Cognition in Immersive Virtual Reality",
+    "section": "Summary",
+    "text": "Summary\nImmersive virtual reality is increasingly used in psychology as a way to run controlled experiments in naturalistic settings. My thesis asked whether immersion itself changes how people behave, and if so, whether those changes simply reflected an artefact of the medium, or represented a more accurate measuring of real-world behaviour.\nAcross a series of experiments, I compared performance on visual attention tasks in immersive VR with matched non-immersive desktop conditions. I manipulated both global immersivity (properties of the environment as a whole) and local immersivity (properties of the specific task stimuli), and found that immersion did change behaviour: effects that are well established in the desktop literature were attenuated, and in some cases reversed or absent, under immersive conditions."
+  },
+  {
+    "objectID": "projects/vr-thesis.html#key-contributions",
+    "href": "projects/vr-thesis.html#key-contributions",
+    "title": "Visual Cognition in Immersive Virtual Reality",
+    "section": "Key contributions",
+    "text": "Key contributions\n\nCreated a large behavioural dataset from over seven experiments\nDemonstrated how various visual attention paradigms could be implemented in immersive virtual reality\nIdentified local immersivity manipulations as the most relevant for behavioural change\nContributed relevant discussion towards the use of VR as a tool in experimental psychology"
+  },
+  {
+    "objectID": "projects/vr-thesis.html#methods-tools",
+    "href": "projects/vr-thesis.html#methods-tools",
+    "title": "Visual Cognition in Immersive Virtual Reality",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nUnity · C# · Valve Index · R · Python"
+  }
+]

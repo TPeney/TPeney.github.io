@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs   # so GitHub Pages can serve straight from the repo
+  resources:
+  - cv.pdf
+
+website:
+  title: "Tom Peney"
+  navbar: false
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    page-layout: full

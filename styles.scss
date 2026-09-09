@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;500&display=swap');
+$font-family-sans-serif: "Inter", system-ui, sans-serif;
+$headings-font-family: "Fraunces", Georgia, serif;
+$primary: #1f5f7a;          // pick your accent
+$link-color: $primary;
+$body-color: #2b2b2b;
+
+/*-- scss:rules --*/
+.about-entity .title { font-size: 2.2rem; }
+h2 {
+  font-size: 1.15rem; font-weight: 600; letter-spacing: .04em;
+  text-transform: uppercase; color: $primary;
+  margin-top: 2.5rem; border-bottom: 1px solid lighten($primary, 45%);
+  padding-bottom: .3rem;
+}
+h2 .bi { margin-right: .4rem; }
+.about-links .about-link { border-color: $primary; color: $primary; }
+.about-links .about-link:hover { background: $primary; color: white; }
+
+/*-- scss:rules --*/
+.about-entity .subtitle .affiliation {
+  font-size: .85em;
+  color: #6c757d;
+}
+
+.quarto-grid-item { border-radius: .5rem; transition: transform .15s; }
+.quarto-grid-item:hover { transform: translateY(-3px); }
+.quarto-grid-item .card-img-top { border-radius: .5rem .5rem 0 0; object-fit: cover; }

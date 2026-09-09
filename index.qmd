@@ -1,0 +1,81 @@
+---
+title: "Dr Tom Peney"
+subtitle: "Postdoctoral Research Associate<br><span class='affiliation'>Knowledge Processing Lab · University of Hull</span>"
+image: images/headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:t.peney@hull.ac.uk
+    - icon: github
+      text: GitHub
+      href: https://github.com/TPeney/
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8957-1501
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=dk1EubIAAAAJ
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
+listing:
+  id: projects-listing
+  contents: projects/*.qmd
+  type: grid
+  grid-columns: 2
+  image-height: 180px
+  fields: [image, title, description]
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+---
+
+## {{< bi person-circle >}} About
+
+Cognitive scientist who designs experiments and analyses behavioural data in R and Python.
+
+I am currently contributing to the ESRC funded grant — [Beyond Belief: knowledge and ignorance processing in adults](https://gtr.ukri.org/projects?ref=UKRI559). 
+
+## {{< bi lightbulb-fill >}} Research interests
+
+- Automaticity of mental state attribution (Theory of Mind)
+- Immersion and presence in extended reality
+- LLM-assisted methods for behavioural research
+- Cognitive ethology and ecological validity in experimental design
+- Open and reproducible research practices
+
+## {{< bi kanban-fill >}} Projects
+
+::: {#projects-listing}
+:::
+
+## {{< bi bookmarks-fill >}} Publications
+
+{{< include publications.md >}}
+
+## {{< bi mortarboard-fill >}} Education
+
+**PhD**, University of Hull, 2024  
+Thesis: [*Visual Cognition in Immersive Virtual Reality: Theoretical and Practical Insights*](https://hull-repository.worktribe.com/output/5462270)
+
+**MSc**, University of Hull, 2021  
+Social Research (Doctoral Training Pathway)
+
+**MSc**, Loughborough University, 2020  
+Work Psychology
+
+**BSc**, University of Hull, 2019  
+Psychology
+
+## {{< bi briefcase-fill >}} Experience
+
+**Postdoctoral Research Associate**, University of Hull  
+*2025 to present*
+
+**Research Assistant**, University of Leeds  
+*2022 to 2024*
+
+## {{< bi terminal-fill >}} Skills
+
+R · Python · Experimental design · Open Science · VR

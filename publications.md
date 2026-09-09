@@ -1,0 +1,1 @@
+**Peney, T.**, & Skarratt, P. A. (2024). Increasing the immersivity of 360° videos facilitates learning and memory: Implications for theory and practice. *Educational Technology Research and Development*, *72*, 3103–3115. [{{< ai doi >}}https://doi.org/10.1007/s11423-024-10402-9](https://doi.org/10.1007/s11423-024-10402-9)
